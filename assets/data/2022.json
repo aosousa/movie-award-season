@@ -1,0 +1,929 @@
+{
+    "data": [
+        {
+            "category": "Best Picture",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once"
+                },
+                {
+                    "award_show": "Golden Globes (Drama)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX546_.jpg",
+                    "winner_name": "The Fabelmans"
+                },
+                {
+                    "award_show": "Golden Globes (Musical or Comedy)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "The Banshees of Inisherin"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "All Quiet on the Western Front"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Tár"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UY3750_.jpg",
+                    "winner_name": "Top Gun: Maverick"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once"
+                }
+            ]
+        },
+        {
+            "category": "Best Leading Actor",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UY2863_.jpg",
+                    "winner_name": "Brendan Fraser (The Whale)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UY2863_.jpg",
+                    "winner_name": "Brendan Fraser (The Whale)"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes - Drama",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_FMjpg_UY4096_.jpg",
+                    "winner_name": "Austin Butler (Elvis)"
+                },
+                {
+                    "award_show": "Golden Globes - Musical or Comedy",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Colin Farrell (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards - Best Lead Performance",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_FMjpg_UY4096_.jpg",
+                    "winner_name": "Austin Butler (Elvis)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Colin Farrell (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UY2863_.jpg",
+                    "winner_name": "Brendan Fraser (The Whale)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Colin Farrell (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UY2863_.jpg",
+                    "winner_name": "Brendan Fraser (The Whale)"
+                }
+            ]
+        },
+        {
+            "category": "Best Leading Actress",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes - Drama",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Cate Blanchett (Tár)"
+                },
+                {
+                    "award_show": "Golden Globes - Musical or Comedy",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards - Best Lead Performance",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Cate Blanchett (Tár)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Cate Blanchett (Tár)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "Cate Blanchett (Tár)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Michelle Yeoh (Everything Everywhere All At Once)"
+                }
+            ]
+        },
+        {
+            "category": "Best Supporting Actor",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards - Best Supporting Performance",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Barry Keoghan (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Brendan Gleeson (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Ke Huy Quan (Everything Everywhere All At Once)"
+                }
+            ]
+        },
+        {
+            "category": "Best Supporting Actress",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Jamie Lee Curtis (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Jamie Lee Curtis (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UY2500_.jpg",
+                    "winner_name": "Angela Bassett (Black Panther: Wakanda Forever)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards - Best Supporting Performance",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Kerry Condon (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Kerry Condon (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UY2500_.jpg",
+                    "winner_name": "Angela Bassett (Black Panther: Wakanda Forever)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UY2222_.jpg",
+                    "winner_name": "Janelle Monáe (Glass Onion: A Knives Out Mystery)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UY2500_.jpg",
+                    "winner_name": "Angela Bassett (Black Panther: Wakanda Forever)"
+                }
+            ]
+        },
+        {
+            "category": "Best Director",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX546_.jpg",
+                    "winner_name": "Steven Spielberg (The Fabelmans)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "Edward Berger (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UY2047_.jpg",
+                    "winner_name": "Charlotte Wells (Aftersun)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX546_.jpg",
+                    "winner_name": "Steven Spielberg (The Fabelmans)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                }
+            ]
+        },
+        {
+            "category": "Best Original Screenplay",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once (Daniel Kwan and Daniel Scheinert)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Martin McDonagh (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once (Daniel Kwan and Daniel Scheinert)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Martin McDonagh (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "National Society of Film Critics (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Todd Field (Tár)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Martin McDonagh (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Everything Everywhere All At Once (Daniel Kwan and Daniel Scheinert)"
+                }
+            ]
+        },
+        {
+            "category": "Best Adapted Screenplay",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+                    "winner_name": "Sarah Polley; based on the novel by Miriam Toews (Women Talking)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UY5625_.jpg",
+                    "winner_name": "Martin McDonagh (The Banshees of Inisherin)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UY12599_.jpg",
+                    "winner_name": "Daniel Kwan and Daniel Scheinert (Everything Everywhere All At Once)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "Edward Berger, Lesley Paterson and Ian Stokell (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "National Society of Film Critics (Original or Adapted)",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Todd Field (Tár)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+                    "winner_name": "Sarah Polley; based on the novel by Miriam Toews (Women Talking)"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+                    "winner_name": "Sarah Polley; based on the novel by Miriam Toews (Women Talking)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "Edward Berger, Lesley Paterson and Ian Stokell (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+                    "winner_name": "Sarah Polley; based on the novel by Miriam Toews (Women Talking)"
+                }
+            ]
+        },
+        {
+            "category": "Best Animated Film",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_FMjpg_UY3000_.jpg",
+                    "winner_name": "Marcel the Shell with Shoes On"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1200_.jpg",
+                    "winner_name": "Guillermo Del Toro's Pinocchio"
+                }
+            ]
+        },
+        {
+            "category": "Best International Film",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "All Quiet on the Western Front (Germany)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZTY4ZDJkNTUtMjEwNy00YzFiLWE1NWYtNzAxNDYxNDJkYTlkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX780_.jpg",
+                    "winner_name": "Argentina, 1995 (Argentina)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMmYxYmJkYWQtNjZkZC00NTMwLTgxMjEtZDQxNmRlZGMyNmQ5XkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_FMjpg_UY4265_.jpg",
+                    "winner_name": "Joyland (Pakistan)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "All Quiet on the Western Front (Germany)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNWMwNzE4MDktMjY5Ny00Njg1LTkzMDUtNzgzYTY5OTIyZWNhXkEyXkFqcGdeQXVyNjQyMTI3MTM@._V1_FMjpg_UY2500_.jpg",
+                    "winner_name": "Eo (Poland)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "RRR (India)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODliOTlmMWMtMWM1NS00YjYwLWJiZjItZDllYmZhNDVkMTc3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_FMjpg_UY2945_.jpg",
+                    "winner_name": "Close (Belgium)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "RRR (India)"
+                }
+            ]
+        },
+        {
+            "category": "Best Original Score",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "Volker Bertelmann (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "N/A",
+                    "winner_name": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UY3000_.jpg",
+                    "winner_name": "Justin Hurwitz (Babylon)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "Volker Bertelmann (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Hildur Guðnadóttir (Tár)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                }
+            ]
+        },
+        {
+            "category": "Best Original Song",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "Naatu Naatu (RRR)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "Naatu Naatu (RRR)"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "Naatu Naatu (RRR)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX750_.jpg",
+                    "winner_name": "Naatu Naatu (RRR)"
+                }
+            ]
+        },
+        {
+            "category": "Best Documentary",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDcxZjVlYTMtNDRmYi00M2YyLTg2NjItNmZmMmVjYzgxNmRmXkEyXkFqcGdeQXVyNzI5MDE3MQ@@._V1_FMjpg_UY2160_.jpg",
+                    "winner_name": "Navalny"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDcxZjVlYTMtNDRmYi00M2YyLTg2NjItNmZmMmVjYzgxNmRmXkEyXkFqcGdeQXVyNzI5MDE3MQ@@._V1_FMjpg_UY2160_.jpg",
+                    "winner_name": "Fire of Love"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDcxZjVlYTMtNDRmYi00M2YyLTg2NjItNmZmMmVjYzgxNmRmXkEyXkFqcGdeQXVyNzI5MDE3MQ@@._V1_FMjpg_UY2160_.jpg",
+                    "winner_name": "Navalny"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYzQ5OWRhMjktN2ZhOS00OTMzLWE1ZWItMjMxMGY2MWFiMzBhXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UY2048_.jpg",
+                    "winner_name": "All the Beauty and the Bloodshed"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZDcxZjVlYTMtNDRmYi00M2YyLTg2NjItNmZmMmVjYzgxNmRmXkEyXkFqcGdeQXVyNzI5MDE3MQ@@._V1_FMjpg_UY2160_.jpg",
+                    "winner_name": "Navalny"
+                },
+                {
+                    "award_show": "National Society of Film Critics - Best Non-Fiction Film",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BYzQ5OWRhMjktN2ZhOS00OTMzLWE1ZWItMjMxMGY2MWFiMzBhXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UY2048_.jpg",
+                    "winner_name": "All the Beauty and the Bloodshed"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZGY2ODY4ZTItZDAwYS00OTkzLTlmZTYtMDQzZjM2MGQ3Nzc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UY2222_.jpg",
+                    "winner_name": "Sr."
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZGI1ZDQwMGQtOGNlOC00MGFmLWI1Y2MtNDUzNTA1NzIzZjc2XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "Good Night Oppy"
+                }
+            ]
+        },
+        {
+            "category": "Best Cinematography",
+            "winners": [
+                {
+                    "award_show": "Oscars",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "James Friend (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "Screen Actors Guild",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Directors Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Producers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Golden Globes",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Independent Spirit Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZjZmOGY3OWMtYmI4ZC00ZjEzLTgzMDctZmE4NDUwZjU3Y2Q4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX540_.jpg",
+                    "winner_name": "Florian Hoffmeister (Tár)"
+                },
+                {
+                    "award_show": "BAFTA",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",
+                    "winner_name": "James Friend (All Quiet on the Western Front)"
+                },
+                {
+                    "award_show": "National Society of Film Critics",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BNWMwNzE4MDktMjY5Ny00Njg1LTkzMDUtNzgzYTY5OTIyZWNhXkEyXkFqcGdeQXVyNjQyMTI3MTM@._V1_FMjpg_UY2500_.jpg",
+                    "winner_name": "Michal Dymek (Eo)"
+                },
+                {
+                    "award_show": "Writers Guild of America",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                },
+                {
+                    "award_show": "Critics Choice Awards",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UY3750_.jpg",
+                    "winner_name": "Claudio Miranda (Top Gun: Maverick)"
+                },
+                {
+                    "award_show": "National Board of Review",
+                    "winner_poster_url": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UY3750_.jpg",
+                    "winner_name": "Claudio Miranda (Top Gun: Maverick)"
+                },
+                {
+                    "award_show": "Hollywood Critics Association Film Awards",
+                    "winner_poster_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/1665px-No-Image-Placeholder.svg.png",
+                    "winner_name": "N/A"
+                }
+            ]
+        }
+    ]
+}
