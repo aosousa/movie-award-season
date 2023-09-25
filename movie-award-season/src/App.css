@@ -1,0 +1,4 @@
+.App {
+  @apply min-h-screen h-auto bg-gray-200 dark:bg-zinc-800 items-center justify-center;
+}
+  
