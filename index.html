@@ -1,54 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Award Season</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Nunito+Sans&display=swap" rel="stylesheet" /> -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Kanit&display=swap" rel="stylesheet" />
+  <title>Movie Award Season</title>
 </head>
 
-<body class="bg-gray-50">
-    <div class="flex flex-col p-4">
-        <h1 class="text-3xl font-bold mx-auto">
-            Movie Award Season
-        </h1>
-    </div>
-
-    <div class="pl-2">
-        <div class="flex flex-col">
-            <div class="mx-auto">
-                <label for="year" class="font-semibold text-xl">Year</label>
-                <select name="year" id="year" class="w-20 h-8 border-2 border-gray-500 rounded-md"
-                    onchange="loadYear()">
-                    <option value="2022" selected>2022</option>
-                </select>
-
-                <label for="category" class="font-semibold text-xl ml-4">Category</label>
-                <select name="category" id="category" class="h-8 border-2 border-gray-500 rounded-md"
-                    onchange="changeAwardGrid()">
-                    <option value="best-picture" selected>Best Picture</option>
-                    <option value="best-leading-actor">Best Leading Actor</option>
-                    <option value="best-leading-actress">Best Leading Actress</option>
-                    <option value="best-supporting-actor">Best Supporting Actor</option>
-                    <option value="best-supporting-actress">Best Supporting Actress</option>
-                    <option value="best-director">Best Director</option>
-                    <option value="best-original-screenplay">Best Original Screenplay</option>
-                    <option value="best-adapted-screenplay">Best Adapted Screenplay</option>
-                    <option value="best-animated-film">Best Animated Film</option>
-                    <option value="best-international-film">Best International Film</option>
-                    <option value="best-original-score">Best Original Screenplay</option>
-                    <option value="best-original-song">Best Original Song</option>
-                    <option value="best-documentary">Best Documentary</option>
-                    <option value="best-cinematography">Best Cinematography</option>
-                </select>
-            </div>
-        </div>
-    </div>
-
-    <div id="award-grid" class="grid md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 rounded-md mx-2 p-4"></div>
-
-    <script src="assets/js/app.js"></script>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
 </body>
 
 </html>

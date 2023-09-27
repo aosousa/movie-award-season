@@ -1,18 +1,36 @@
-import { useEffect, useState } from "react"
+import { useCallback, useEffect, useState } from "react"
+
+import MovieItem from "./MovieItem"
+
+export type Winner = {
+	award_show: string
+	winner_poster_url: string
+	winner_name: string
+}
+
+type Category = {
+	category: string
+	winners: Winner[]
+}
 
 const MovieGrid = () => {
 	const [year, setYear] = useState(new Date().getFullYear() - 1)
 	const [category, setCategory] = useState('Best Picture')
-	const [data, setData] = useState([])
-	const [categoryData, setCategoryData] = useState([])
+	const [data, setData] = useState<Category[]>([])
+	const [categoryData, setCategoryData] = useState<Category[]>([])
+
+	const changeCategoryData = useCallback(() => setCategoryData(data.filter((c: Category) => c.category === category)), [category, data])
 
 	useEffect(() => {
 		fetch(`./data/${year}.json`)
 			.then((response) => response.json())
-			.then((yearData) => setData(yearData))
-
+			.then((yearData) => {
+				setData(yearData.data)
+				changeCategoryData()
+			})
 		return
-	}, [year])
+	}, [year, changeCategoryData])
+
 
 	const onYearChange = (e: React.FormEvent<HTMLSelectElement>) => {
 		setYear(Number((e.target as HTMLSelectElement).value))
@@ -20,14 +38,13 @@ const MovieGrid = () => {
 			.then((response) => response.json())
 			.then((yearData) => {
 				setData(yearData)
+
 				// set category data by filtering overall data by the new category
+				changeCategoryData()
 			})
 	}
 
-	const onCategoryChange = (e: React.FormEvent<HTMLSelectElement>) => {
-		setCategory(String((e.target as HTMLSelectElement).value))
-		// set category data by filtering overall data by the new category
-	}
+	const onCategoryChange = (e: React.FormEvent<HTMLSelectElement>) => setCategory(String((e.target as HTMLSelectElement).value))
 
 	return (
 		<div>
@@ -68,8 +85,8 @@ const MovieGrid = () => {
 				</div>
 			</div>
 
-			<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 rounded-md mx-2 p-4">
-				
+			<div className="grid grid-flow-row grid-rows-max md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 rounded-md mx-2 p-4">
+				{categoryData.map((category: Category) => (category.winners.map((winner: Winner) => <MovieItem winner={winner} />)))}
 			</div>
 		</div>
 	)
