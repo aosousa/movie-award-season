@@ -5,11 +5,11 @@ import { Route, Routes } from 'react-router-dom'
 import MovieGrid from './components/MovieGrid'
 
 const App = () => (
-	<div className="App">
+	<main className="App">
 		<Routes>
 			<Route path="/" element={<MovieGrid />} />
 		</Routes>
-	</div>
+	</main>
 )
 
 export default App

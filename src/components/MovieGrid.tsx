@@ -59,14 +59,14 @@ const MovieGrid = () => {
 					<div className="mx-auto">
 						<label htmlFor="year" className="font-semibold text-xl mr-2">Year</label>
 						<select name="year" id="year" className="w-20 h-8 border-2 border-gray-500 rounded-md" onChange={(e) => onYearChange(e)}>
-							<option value="2022" selected>2022</option>
+							<option value="2022">2022</option>
 							<option value="2021">2021</option>
 							<option value="2020">2020</option>
 						</select>
 
 						<label htmlFor="category" className="font-semibold text-xl ml-4 mr-2">Category</label>
 						<select name="category" id="category" className="h-8 border-2 border-gray-500 rounded-md" onChange={(e) => onCategoryChange(e)}>
-							<option value="Best Picture" selected>Best Picture</option>
+							<option value="Best Picture">Best Picture</option>
 							<option value="Best Leading Actor">Best Leading Actor</option>
 							<option value="Best Leading Actress">Best Leading Actress</option>
 							<option value="Best Supporting Actor">Best Supporting Actor</option>
@@ -86,7 +86,7 @@ const MovieGrid = () => {
 			</div>
 
 			<div className="grid grid-flow-row grid-rows-max md:grid-cols-2 lg:grid-cols-4 gap-4 px-4 rounded-md mx-2 p-4">
-				{categoryData.map((category: Category) => (category.winners.map((winner: Winner) => <MovieItem winner={winner} />)))}
+				{categoryData.map((category: Category) => (category.winners.map((winner: Winner, idx: number) => <MovieItem key={idx} winner={winner} />)))}
 			</div>
 		</div>
 	)
